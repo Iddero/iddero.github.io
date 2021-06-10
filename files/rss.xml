@@ -6,16 +6,34 @@
 	<description>Iddero product downloads</description>
 	<atom:link href="http://www.iddero.com/files/rss.xml" rel="self" type="application/rss+xml" />
 	<item>
-		<title>Release_notes-4.4.pdf</title>
-		<link>http://www.iddero.com/files/Release_notes-4.4.pdf</link>
-		<guid isPermaLink="false">932dca851a8d4e29350910d6cc94430c59e0528801371494212bda548bb954a5</guid>
-		<pubDate>Thu, 25 Mar 2021 09:44:00 +0000</pubDate>
+		<title>VERSO_Manual_1.2_revC_en.pdf</title>
+		<link>http://www.iddero.com/files/VERSO_Manual_1.2_revC_en.pdf</link>
+		<guid isPermaLink="false">405bf808bf2a374642845c3b4e8740a6bbb56fe5e52881e0c69c464d12ac7fb7</guid>
+		<pubDate>Thu, 10 Jun 2021 10:46:06 +0000</pubDate>
+	</item>
+	<item>
+		<title>VERSO_Manual_1.2_revC_es.pdf</title>
+		<link>http://www.iddero.com/files/VERSO_Manual_1.2_revC_es.pdf</link>
+		<guid isPermaLink="false">31de5c940e097edc11d7d717447dbf8174e8cf2625cf970175223c5f0911f198</guid>
+		<pubDate>Thu, 10 Jun 2021 10:46:06 +0000</pubDate>
+	</item>
+	<item>
+		<title>Dossier_HC3_HC3L_Mar2021_es.pdf</title>
+		<link>http://www.iddero.com/files/Dossier_HC3_HC3L_Mar2021_es.pdf</link>
+		<guid isPermaLink="false">abc1361077d027bb6af2bdd799d395ac75c2d456c18d5d25117e4328b764d874</guid>
+		<pubDate>Thu, 25 Mar 2021 12:36:48 +0000</pubDate>
 	</item>
 	<item>
 		<title>Dossier_HC3_HC3L_Mar2021_en.pdf</title>
 		<link>http://www.iddero.com/files/Dossier_HC3_HC3L_Mar2021_en.pdf</link>
-		<guid isPermaLink="false">483074450571f10978528cc4ed7d6f43cc241c7bcfa2580aed61e5c8a1d3ff12</guid>
-		<pubDate>Wed, 24 Mar 2021 17:35:25 +0000</pubDate>
+		<guid isPermaLink="false">483074450571f10978528cc4ed7d6f4312a3ef8cbdd822ab136ba4ce7c9e6b14</guid>
+		<pubDate>Thu, 25 Mar 2021 12:34:05 +0000</pubDate>
+	</item>
+	<item>
+		<title>Release_notes-4.4.pdf</title>
+		<link>http://www.iddero.com/files/Release_notes-4.4.pdf</link>
+		<guid isPermaLink="false">932dca851a8d4e29350910d6cc94430c59e0528801371494212bda548bb954a5</guid>
+		<pubDate>Thu, 25 Mar 2021 09:44:00 +0000</pubDate>
 	</item>
 	<item>
 		<title>iddero-config-4.4-setup.exe</title>
@@ -28,12 +46,6 @@
 		<link>http://www.iddero.com/files/hc3-knx-4.4.bin</link>
 		<guid isPermaLink="false">5b0e97e501c12fb86b00846a801c65fd7f2113a2987faa133f8696926b8e6ba5</guid>
 		<pubDate>Wed, 24 Mar 2021 11:54:16 +0000</pubDate>
-	</item>
-	<item>
-		<title>Dossier_HC3_HC3L_Mar2021_es.pdf</title>
-		<link>http://www.iddero.com/files/Dossier_HC3_HC3L_Mar2021_es.pdf</link>
-		<guid isPermaLink="false">abc1361077d027bb6af2bdd799d395ac20db6558bad60aeeef708b861e03beb2</guid>
-		<pubDate>Wed, 10 Mar 2021 11:25:16 +0000</pubDate>
 	</item>
 	<item>
 		<title>Precios_Iddero_202101.bc3</title>
